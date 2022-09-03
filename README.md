@@ -1,16 +1,11 @@
-# crash_course
+# Flutter freeCodeCamp Crash Course
+This project is done along this <a href="https://www.youtube.com/watch?v=fi2WkznwWbc&t=4190s">freeCodeCamp Tutorial</a>. Aim is to familiarize with Flutter, Firebase, and their usage.
 
-A new Flutter project.
+Please note that the tutorial might be a bit out of date. This is a refreshed version of the tutorial's project, and additionally, sign out functionality is implemented. Also, using the sign out, a user can re-enter their profile without a need for a new authentication, if they left the app without signing out. For further details of the application, please refer to the tutorial's link above.
 
-## Getting Started
+Meanwhile, give a visit to <a href="https://www.youtube.com/c/Freecodecamp">freeCodeCamp</a>'s YouTube channel. They are pretty awesome!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- Dart/Flutter
+- Firebase Firestore Database
+- Firebase Authentication
