@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288772995566",
+    "project_id": "crash-course-cb477",
+    "storage_bucket": "crash-course-cb477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288772995566:android:9ce45f0f3d7687eeadb6ff",
+        "android_client_info": {
+          "package_name": "com.course.crash_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288772995566-q34ptgtk581qjirmvs5ta3knoe9r9gig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKSAmAqXJxwZuB8TCCOod6uOEUegNNHPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288772995566-q34ptgtk581qjirmvs5ta3knoe9r9gig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
